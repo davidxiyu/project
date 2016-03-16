@@ -20,11 +20,13 @@
     
     
     NSLog(@"davidyi要发话了");
+    NSLog(@"davidxiyu要发话了");
+
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+
 }
 
 @end
