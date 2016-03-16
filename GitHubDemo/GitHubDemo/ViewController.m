@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"去你妹的github");
+    
+    
+    NSLog(@"davidyi要发话了");
 }
 
 - (void)didReceiveMemoryWarning {
